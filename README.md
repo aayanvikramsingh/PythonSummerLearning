@@ -2,8 +2,7 @@
 
 This repository contains `.ipynb` notebooks created while revising Python over the summer using the **MySirG** YouTube playlist.
 
-📚 **Playlist Link**:  
-[Python Tutorials by MySirG](https://www.youtube.com/playlist?list=PL7ersPsTyYt26II5XjrZiRkxW11BaejOl)
+📚 **Playlist Link**:  [Python Tutorials by MySirG](https://www.youtube.com/playlist?list=PL7ersPsTyYt26II5XjrZiRkxW11BaejOl)
 
 ## 📌 How to Use
 
